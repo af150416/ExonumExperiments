@@ -1,0 +1,12 @@
+{
+  "name": "tes",
+  "description": "tes description",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "exonum-client": "^0.1.0"
+  }
+}
